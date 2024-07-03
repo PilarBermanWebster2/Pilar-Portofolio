@@ -6,9 +6,10 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ## About Me
-Hi! I'm **Muhammad Pilar Abudzar Al Ghifari**, a passionate developer with expertise in **Flutter, C++, JavaScript, Next.js,** and **Express.js**. I love creating innovative solutions and working on challenging projects that push the boundaries of technology.
+Hi! I'm **Muhammad Pilar Abudzar Al Ghifari**, a passionate developer with expertise in **Flutter, C++, JavaScript, Next.js, Express.js,** and **Laravel**. I love creating innovative solutions and working on challenging projects that push the boundaries of technology.
 
 ## Projects
 Here are some of the projects I've worked on:

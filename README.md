@@ -7,9 +7,10 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ## About Me
-Hi! I'm **Muhammad Pilar Abudzar Al Ghifari**, a passionate developer with expertise in **Flutter, C++, JavaScript, Next.js, Express.js,** and **Laravel**. I love creating innovative solutions and working on challenging projects that push the boundaries of technology.
+Hi! I'm **Muhammad Pilar Abudzar Al Ghifari**, a passionate developer with expertise in **Flutter, C++, JavaScript, Next.js, Express.js, Laravel,** and **Java**. I love creating innovative solutions and working on challenging projects that push the boundaries of technology.
 
 ## Projects
 Here are some of the projects I've worked on:
@@ -35,7 +36,7 @@ Here are some of the projects I've worked on:
 - **Features:** SEO-friendly, fast loading times, and more.
 
 ## Skills
-- **Languages:** Dart, C++, JavaScript, HTML, CSS, TypeScript
+- **Languages:** Dart, C++, JavaScript, HTML, CSS, TypeScript, Java
 - **Frameworks & Libraries:** Flutter, React, Next.js, Laravel
 - **Tools & Platforms:** Git, GitHub, VS Code, Node.js, IDX, XCode
 

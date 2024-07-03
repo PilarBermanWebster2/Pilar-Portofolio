@@ -37,7 +37,7 @@ Here are some of the projects I've worked on:
 - **Tools & Platforms:** Git, GitHub, VS Code, Node.js, IDX, XCode
 
 ## Contact
-Feel free to reach out to me at [your.email@example.com](mailto:pilarmuhammad215@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/).
+Feel free to reach out to me at [pilarmuhammad215@gmail.com](mailto:pilarmuhammad215@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/).
 
 ---
 

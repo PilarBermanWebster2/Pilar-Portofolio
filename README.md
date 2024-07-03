@@ -32,12 +32,12 @@ Here are some of the projects I've worked on:
 - **Features:** SEO-friendly, fast loading times, and more.
 
 ## Skills
-- **Languages:** Dart, C++, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** Flutter, React, Next.js
-- **Tools & Platforms:** Git, GitHub, VS Code, Node.js
+- **Languages:** Dart, C++, JavaScript, HTML, CSS, TypeScript
+- **Frameworks & Libraries:** Flutter, React, Next.js, Laravel
+- **Tools & Platforms:** Git, GitHub, VS Code, Node.js, IDX, XCode
 
 ## Contact
-Feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+Feel free to reach out to me at [your.email@example.com](mailto:pilarmuhammad215@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/).
 
 ---
 

@@ -6,7 +6,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ## About Me
-Hi! I'm Muhammad Pilar Abudzar Al Ghifari, a passionate developer with expertise in Flutter, C++, JavaScript, and Next.js. I love creating innovative solutions and working on challenging projects that push the boundaries of technology.
+Hi! I'm **Muhammad Pilar Abudzar Al Ghifari**, a passionate developer with expertise in **Flutter, C++, JavaScript, and Next.js**. I love creating innovative solutions and working on challenging projects that push the boundaries of technology.
 
 ## Projects
 Here are some of the projects I've worked on:
@@ -37,8 +37,8 @@ Here are some of the projects I've worked on:
 - **Tools & Platforms:** Git, GitHub, VS Code, Node.js, IDX, XCode
 
 ## Contact
-Feel free to reach out to me at [pilarmuhammad215@gmail.com](mailto:pilarmuhammad215@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/).
+Feel free to reach out to me at [pilarmuhammad215@gmail.com](mailto:pilarmuhammad215@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
 
 ---
 
-Thank you for visiting my github! I look forward to collaborating and creating amazing projects together.
+Thank you for visiting my GitHub! I look forward to collaborating and creating amazing projects together.
